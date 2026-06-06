@@ -36,6 +36,7 @@
         "Amazon 3x3 image grid cooking pots image is exactly 3 rows 3 columns. Select EVERY tile that contains cooking pots. Click the CENTER of each matching tile. Usually exactly 5 tiles return 5 xy points not 1 or 3.": 5,
         "Amazon 3x3 image grid bags image is exactly 3 rows 3 columns. Select EVERY tile that contains bags. Click the CENTER of each matching tile. Usually exactly 5 tiles return 5 xy points not 1 or 3.": 5,
         "Amazon 3x3 image grid spoons image is exactly 3 rows 3 columns. Select EVERY tile that contains spoons. Click the CENTER of each matching tile. Usually exactly 5 tiles return 5 xy points not 1 or 3.": 5,
+        "Amazon 3x3 image grid binoculars image is exactly 3 rows 3 columns. Select EVERY tile that contains binoculars. Click the CENTER of each matching tile. Usually exactly 5 tiles return 5 xy points not 1 or 3.": 5,
         "Select objects in the specified order": 5,
         "Click on the items that need what is in the reference to work": 5,
         "Press in the following order": 5,
