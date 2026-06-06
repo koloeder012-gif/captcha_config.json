@@ -30,6 +30,7 @@
         "Amazon 3x3 image grid forks image is exactly 3 rows 3 columns. Select EVERY tile that contains forks. Click the CENTER of each matching tile. Usually exactly 5 tiles return 5 xy points not 1 or 3.": 3,
         "Amazon 3x3 image grid seats image is exactly 3 rows 3 columns. Select EVERY tile that contains seats. Click the CENTER of each matching tile. Usually exactly 5 tiles return 5 xy points not 1 or 3.": 3,
         "Amazon 3x3 image grid cooking pots image is exactly 3 rows 3 columns. Select EVERY tile that contains cooking pots. Click the CENTER of each matching tile. Usually exactly 5 tiles return 5 xy points not 1 or 3.": 5,
+        "Amazon 3x3 image grid spoons image is exactly 3 rows 3 columns. Select EVERY tile that contains spoons. Click the CENTER of each matching tile. Usually exactly 5 tiles return 5 xy points not 1 or 3.": 5,
         "Please click into the open circle to continue. There is only ONE such circle in the image.": 1,
         "Amazon 3x3 image grid suitcases image is exactly 3 rows 3 columns. Select EVERY tile that contains suitcases. Click the CENTER of each matching tile. Usually exactly 5 tiles return 5 xy poin SECOND PASS recount every matching 3x3 tile. If 5": 5,
         "Press in the following order": 5,
