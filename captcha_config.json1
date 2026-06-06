@@ -15,7 +15,7 @@
         "Select all images containing pig and Mars": 3,
         "Select all images containing tree and cave": 3,
         "Select all images containing cow and jungle": 3,
-         "Select all images containing kangaroo and mountain": 3,
+        "Select all images containing kangaroo and mountain": 3,
         "Select all images containing shark and beach": 3,
         "Give me the CENTER coordinates where I need to move the puzzle piece.": 1,
         "Give me the coordinates where I need to move the puzzle piece.": 1,
