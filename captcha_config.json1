@@ -10,6 +10,7 @@
          "Select every item that has a metallic surface": 3,
          "Click on things that can fit inside a coffee mug": 2,
          "Choose things that fit inside a coffee mug": 2,
+         "Tap on things small enough to fit in a coffee mug: 2,
          "Select all things you can eat that come only from plants": 3,
         "Pick the items that need what is in the example to work": 3,
         "Click Chinese chars in EXACT order 1st 2nd 3rd . Return 3 coordinates in this order.": 3,
