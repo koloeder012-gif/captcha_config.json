@@ -15,6 +15,7 @@
         "Attention! choose in order otherwise failure!": 4,
          "Haz clic en todas las imgenes que contengan el objeto indicado": 5,
         "Select the image displayed the fewest times": 1,
+        "Select the image displayed the fewest times. Object direction does not matter.": 1,
         "Puzzle center": 1,
        "Click on objects that are typically in a meeting room": 2,
        "Click the center of the empty white puzzle-shaped gap on the right side of the image. Do not click the puzzle piece on the left.": 1,
