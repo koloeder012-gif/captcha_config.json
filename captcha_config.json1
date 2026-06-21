@@ -15,6 +15,7 @@
         "Attention! choose in order otherwise failure!": 4,
          "Haz clic en todas las imgenes que contengan el objeto indicado": 5,
         "Select the image displayed the fewest times": 1,
+        "The image shows 3 small reference icons in the top-right corner. Click the matching objects in the main picture in that EXACT order 1st icon 2nd icon 3rd icon. Return 3 coordinates.": 3,
         "Select all items heavier than the fruit in the example": 3,
          "Select everything that can float on water": 3,
         "Select the image displayed the fewest times. Object direction does not matter.": 1,
