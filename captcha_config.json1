@@ -53,5 +53,6 @@
   "Please click into the open circle to continue. There is only ONE such circle in the image.": 1,
   "Amazon 3x3 image grid suitcases image is exactly 3 rows 3 columns. Select EVERY tile that contains suitcases. Click the CENTER of each matching tile. Usually exactly 5 tiles return 5 xy poin SECOND PASS recount every matching 3x3 tile. If 5": 5,
   "Press in the following order": 5,
+  "If this is a slide puzzle click ONCE on the center of the missing puzzle gap. If this is a click-in-order or matching puzzle click on the shapesicons in the correct order.": 1,
   "Amazon 3x3 image grid clocks": 5
 }
