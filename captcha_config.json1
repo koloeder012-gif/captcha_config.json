@@ -1,5 +1,6 @@
 {
   "Select 2 images with": 5,
+   "The small red-bordered fragment at the top matches exactly one of three noisy squares in the bottom photo. Click only the center of the matching noisy square in the bottom photo. Return exactly one point.": 1,
   "Amazon 3x3 grid click the center of EVERY tile": 1,
   "Select all objects in specified order": 5,
   "Click on the image showed bellow": 1,
