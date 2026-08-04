@@ -2,6 +2,7 @@
   "Select 2 images with": 5,
   "Tap on things some people usually bring to bed": 3,
   "click in turn": 3,
+   "Find things that can go into the object in the example. The teal box at the top has the instruction and a small reference image of the target object. Return the CENTER coordinates of every tile that matches.": 3,
    "Read the visible English instruction in the top strip. The top-right image is REFERENCE ONLY never click the top strip. Click only the correct item in the large scene below.": 3,
    "The small red-bordered fragment at the top matches exactly one of three noisy squares in the bottom photo. Click only the center of the matching noisy square in the bottom photo. Return exactly one point.": 1,
   "Amazon 3x3 grid click the center of EVERY tile": 1,
