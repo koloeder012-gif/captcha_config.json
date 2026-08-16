@@ -2,6 +2,7 @@
   "Select 2 images with": 5,
   "Tap on things some people usually bring to bed": 3,
   "click in turn": 3,
+"Select in this order": 3,
 "This is a reCAPTCHA. Follow the instruction at the top of the image and click the matching squares.": 3,
 "Click the broken circle the one with a cutgap in it": 1,
 "In the captcha challenge modal in the center of the image click on all tiles matching Put the missing piece in the correct place to complete the chain. If none match return no coordinates. Coordinates relative to the FULL image.": 1,
